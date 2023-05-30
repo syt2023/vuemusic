@@ -1,2 +1,2 @@
 # vuemusic
-this is a 网易云 obj
+this is a vue-cli object
